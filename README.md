@@ -13,7 +13,7 @@ Windows 64: ![WindowsBuild](/Windows/BorderShot.exe)
 
 ### Краткое описание
 Border Shot - мобильная многопользовательская игра.
-![Screenshot](/DemoContent/ScreenShot.png)
+![Screenshot](/DemoContent/Screenshot.png)
 
 ### План
 -[ ] Border Shot - 265 часов
