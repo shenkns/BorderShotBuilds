@@ -7,8 +7,11 @@
 Stack: ```C++-17```, ```C#```, ```Blueprints```, ```Unreal Engine 5.0.3```, ```AWS GameLift```, ```Git```, ```Jira```, ```Trello```, ```ZBrush```, ```HlSl```, ```Niagara```, ```Shader Graph```
 
 ### Binaries 
+
 Android ASTC arm64 Shipping: ![AndroidShippingBuildASTC](/Android_ASTC/BorderShot-Android-Shipping-arm64.apk)
+
 Android ASTC arm64 Development: ![AndroidDevelopmentBuildASTC](/Android_ASTC/BorderShot-Android-arm64.apk) 
+
 Windows 64: ![WindowsBuild](/Windows/BorderShot.exe) 
 
 ### Краткое описание
